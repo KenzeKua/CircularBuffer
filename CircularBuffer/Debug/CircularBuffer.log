@@ -1,0 +1,9 @@
+﻿  CircularBuffer.cpp
+D:\KDU\[Dated] 2020-6\Game Engine\CircularBuffer\CircularBuffer.h(11,6): warning C4200: nonstandard extension used: zero-sized array in struct/union
+D:\KDU\[Dated] 2020-6\Game Engine\CircularBuffer\CircularBuffer.h(11,6): message : This member will be ignored by a defaulted constructor or copy/move assignment operator
+  main.cpp
+D:\KDU\[Dated] 2020-6\Game Engine\CircularBuffer\main.cpp(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+D:\KDU\[Dated] 2020-6\Game Engine\CircularBuffer\CircularBuffer.h(11,6): warning C4200: nonstandard extension used: zero-sized array in struct/union
+D:\KDU\[Dated] 2020-6\Game Engine\CircularBuffer\CircularBuffer.h(11,6): message : This member will be ignored by a defaulted constructor or copy/move assignment operator
+  Generating Code...
+  CircularBuffer.vcxproj -> D:\KDU\[Dated] 2020-6\Game Engine\CircularBuffer\Debug\CircularBuffer.exe
